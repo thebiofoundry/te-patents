@@ -1,5 +1,7 @@
 # Tissue Engineering Patent Analysis
 
+[![DOI](https://zenodo.org/badge/178113823.svg)](https://zenodo.org/badge/latestdoi/178113823)
+
 ## Data Source
 
 Patent data related to tissue engineering is obtained from The Lens, an online patent search service, on Sept 28th 2018 using the following search string:
